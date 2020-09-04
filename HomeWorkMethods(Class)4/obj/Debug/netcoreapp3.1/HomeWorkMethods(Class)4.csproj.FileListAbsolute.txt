@@ -1,0 +1,13 @@
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.exe
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.deps.json
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.runtimeconfig.json
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.runtimeconfig.dev.json
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.dll
+D:\C# PROJECTS\HomeWorkMethods(Class)4\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.pdb
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.csprojAssemblyReference.cache
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.AssemblyInfoInputs.cache
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.AssemblyInfo.cs
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.dll
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.pdb
+D:\C# PROJECTS\HomeWorkMethods(Class)4\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)4.genruntimeconfig.cache

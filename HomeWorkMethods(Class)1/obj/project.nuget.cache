@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ll13MG7SR2fuQ5V62s4DYimiVzKH7mSoO+M4GqQ09FS1M9XcA7zO8zzy54JCrA6UBdH9v25CDOUCjt4dTKFM3A==",
+  "success": true,
+  "projectFilePath": "D:\\C# PROJECTS\\Homework1\\HomeWorkMethods(Class)1\\HomeWorkMethods(Class)1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

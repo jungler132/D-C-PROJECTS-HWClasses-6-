@@ -1,0 +1,13 @@
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.csprojAssemblyReference.cache
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.AssemblyInfoInputs.cache
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.AssemblyInfo.cs
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.exe
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.deps.json
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.runtimeconfig.json
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.runtimeconfig.dev.json
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.dll
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\bin\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.pdb
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.dll
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.pdb
+D:\C# PROJECTS\HWClasses(6)\HomeWorkMethods(Class)6\obj\Debug\netcoreapp3.1\HomeWorkMethods(Class)6.genruntimeconfig.cache
