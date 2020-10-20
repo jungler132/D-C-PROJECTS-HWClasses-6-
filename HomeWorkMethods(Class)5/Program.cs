@@ -10,6 +10,7 @@ namespace HomeWorkMethods_Class_5
             nums.vvod_Massiva();
             nums.vivodMassiva();
             nums.Sortirovka();
+            Console.ReadKey();
         }
     }
 }
