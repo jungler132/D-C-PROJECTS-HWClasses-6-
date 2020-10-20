@@ -15,6 +15,7 @@ namespace HomeWorkMethods_Class_1
             num.Vivod();
             Console.WriteLine(" Coordinate point is " + num.Distanciya());
             num.Vektor();
+            Console.ReadKey();
         }   
     }
 }
