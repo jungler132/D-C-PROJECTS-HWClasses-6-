@@ -10,6 +10,7 @@ namespace HomeWorkMethods_Class_2
             num.DliniStoron();
             num.Perimetr();
             num.Ploshad();
+            Console.ReadKey();
         }
     }
 }
