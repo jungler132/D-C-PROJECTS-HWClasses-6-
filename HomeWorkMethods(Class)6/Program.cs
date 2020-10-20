@@ -12,6 +12,7 @@ namespace HomeWorkMethods_Class_6
             mass.vvod_v_massiv();
             mass.Na_Ekran();
             Console.Out.WriteLine($"Element count" + " ", mass.counter);
+            Console.ReadKey();
         }
     }
 }
