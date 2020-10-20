@@ -10,6 +10,7 @@ namespace HomeWorkMethods_Class_3
             nums.DliniStoron();
             nums.PerimPram();
             nums.PloshadPram();
+            Console.ReadKey();
         }
     }
 }
