@@ -14,6 +14,7 @@ namespace HomeWorkMethods_Class_4
             num.showBalance();
             num.Check_Price();
             num.Stuff_Count();
+            Console.ReadKey();
         }
     }
 }
